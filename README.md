@@ -1,6 +1,6 @@
 # SolveSessionProblems
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-red.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-red.svg?style=flat-square)](#contributors-)
 
 
 <p align="center">
