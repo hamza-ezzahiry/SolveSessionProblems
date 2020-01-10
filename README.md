@@ -32,7 +32,7 @@ This repo for 1337 students where they can find solutions of every session probl
 - [x] Problem 4 : install brew 
 - [x] Problem 5 : No more .DS_Store
 
-# Solutions : 
+## Solutions : 
 
 
 ### Problem 1 : Full disk
