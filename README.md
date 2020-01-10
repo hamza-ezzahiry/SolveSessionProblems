@@ -49,7 +49,7 @@ New service is deployed **[iscsi-tools](https://iscsi-tools.1337.ma)** , so you 
 
 ### Problem 4 : install brew 
 
-use this script 
+script :
 ```sh
 
 #!/usr/sh 
@@ -58,7 +58,7 @@ rm -rfv $HOME/.brew && git clone --progress --verbose --depth=1 https://github.c
 
 ### Problem 5 : No more .DS_Store
 
-use this script 
+script :
 ```sh
   find ~Desktop -name .DS_Store -depth -exec rm {} \; 
 ```
