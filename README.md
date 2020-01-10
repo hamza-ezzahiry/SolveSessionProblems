@@ -37,7 +37,7 @@ This repo for 1337 students where they can find solutions of every session probl
 
 ### Problem 1 : Full disk
 
-easy, use this tool developed by the student : **[Cclean](https://github.com/su-omb/Cleaner_42)**
+easy, use this tool **[Cclean](https://github.com/su-omb/Cleaner_42)** developed by the student : Omar Bouykourne.
 
 ### Problem 2 : ctkahp quit unexpectedly
 
