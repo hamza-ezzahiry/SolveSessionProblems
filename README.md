@@ -24,7 +24,7 @@ This repo for 1337 students where they can find solutions of every session probl
 
 
 
-**Problem List : **
+**Problem List:**
 
 - [x] Problem 1 : Full disk
 - [x] Problem 2 : ctkahp quit unexpectedly
