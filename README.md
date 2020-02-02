@@ -68,4 +68,4 @@ script :
 
 <img src="https://thijsdejong.gallerycdn.vsassets.io/extensions/thijsdejong/codam-norminette/19.10.1/1572359486186/Microsoft.VisualStudio.Services.Icons.Default" width="100" height="100">
 
-Use this tool **[codam-norminette-plus](https://github.com/thijsdejong/codam-norminette-plus)** and you can also use this extension **[Codam Norminette](https://marketplace.visualstudio.com/items?itemName=thijsdejong.codam-norminette)**
+Use this tool **[codam-norminette-plus](https://github.com/thijsdejong/codam-norminette-plus)** and you can also use this extension on vs code **[Codam Norminette](https://marketplace.visualstudio.com/items?itemName=thijsdejong.codam-norminette)**
