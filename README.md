@@ -51,11 +51,18 @@ New service is deployed **[iscsi-tools](https://iscsi-tools.1337.ma)** , so you 
 
 ### Problem 4 : install brew 
 
-script :
+script 1:
 ```sh
 
 #!/usr/sh 
 rm -rfv $HOME/.brew && git clone --progress --verbose --depth=1 https://github.com/Homebrew/brew $HOME/.brew && echo 'export PATH=$HOME/.brew/bin:$PATH' >> $HOME/.zshrc && source $HOME/.zshrc && brew update -v 
+```
+
+script 2:
+
+```sh
+
+rm -rf $HOME/.brew && git clone --depth=1 https://github.com/Homebrew/brew $HOME/.brew && export PATH=$HOME/.brew/bin:$PATH && brew update && echo "export PATH=$HOME/.brew/bin:$PATH" >> ~/.zshrc
 ```
 
 ### Problem 5 : No more .DS_Store
