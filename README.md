@@ -71,6 +71,8 @@ script :
 ```sh
   find ~Desktop -name .DS_Store -depth -exec rm {} \; 
 ```
+**P.S :** Add it as an alias  
+
 ### Problem 6 : Norminete Time-out
 
 <img src="https://thijsdejong.gallerycdn.vsassets.io/extensions/thijsdejong/codam-norminette/19.10.1/1572359486186/Microsoft.VisualStudio.Services.Icons.Default" width="100" height="100">
