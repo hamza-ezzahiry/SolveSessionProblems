@@ -47,7 +47,7 @@ You have to remake the symbolic links to goinfre directories and also clean the 
 
 ### Problem 3 : iscsi-target problem 
 
-New service is deployed **[iscsi-tools](https://iscsi-tools.1337.ma)** , so you could by yourself fix iscsi-target problems, first you have to login in intra (using your mobile phone or your peer computer) and click on fix iscsi.
+New service is deployed by 1337 Staff **[iscsi-tools](https://iscsi-tools.1337.ma)** , so you could by yourself fix iscsi-target problems, first you have to login in intra (using your mobile phone or your peer computer) and click on fix iscsi.
 
 ### Problem 4 : install brew 
 
