@@ -32,6 +32,8 @@ This repo for 1337 students where they can find solutions of every session probl
 - [x] Problem 4 : install brew 
 - [x] Problem 5 : No more .DS_Store
 - [x] Problem 6 : Norminete Time-out
+- [x] Problem 7 : Unavailable
+
 
 
 ## Solutions : 
@@ -78,3 +80,16 @@ script :
 <img src="https://thijsdejong.gallerycdn.vsassets.io/extensions/thijsdejong/codam-norminette/19.10.1/1572359486186/Microsoft.VisualStudio.Services.Icons.Default" width="100" height="100">
 
 Use this tool **[codam-norminette-plus](https://github.com/thijsdejong/codam-norminette-plus)** and you can also use this extension on vs code **[Codam Norminette](https://marketplace.visualstudio.com/items?itemName=thijsdejong.codam-norminette)**
+
+
+### Problem 7 : Unavailable
+
+<img src="https://i.imgur.com/c4uy3cM.png" width="400" height="100">
+
+To solve this problem follow these steps : 
+
+1. open iTerm 
+
+
+
+
