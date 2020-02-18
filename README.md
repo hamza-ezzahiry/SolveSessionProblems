@@ -103,8 +103,11 @@ To solve this problem follow these steps :
 ```
 
 **4. Go to SETTINGS -> Security.**
-  => [link](https://profile.intra.42.fr/securities)
-And click on 
+
+click here : [link](https://profile.intra.42.fr/securities)
+
+And click on :
+
 <img src="https://i.imgur.com/eer6D71.png" width="300" height="100">
 
 **5. Finally, log out from your session and re-login**
