@@ -84,12 +84,29 @@ Use this tool **[codam-norminette-plus](https://github.com/thijsdejong/codam-nor
 
 ### Problem 7 : Unavailable
 
-<img src="https://i.imgur.com/c4uy3cM.png" width="400" height="100">
+<img src="https://i.imgur.com/c4uy3cM.png" width="500" height="200">
 
 To solve this problem follow these steps : 
 
 1. open iTerm 
+2. execute the following command until you find this result "kdestroy: krb5_cc_destroy: No credentials cache file found"
 
+```sh
+ $ kdestroy
+```
+
+3. execute and fill-in it with your infos
+```sh
+ $ kinit
+```
+
+4. Go to SETTINGS -> Security. 
+  => [link](https://profile.intra.42.fr/securities)
+And click on 
+
+<img src="https://i.imgur.com/eer6D71.png" width="300" height="100">
+
+5. Finally, log out from your session and re-login  
 
 
 
