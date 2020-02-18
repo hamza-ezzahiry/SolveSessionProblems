@@ -84,7 +84,7 @@ Use this tool **[codam-norminette-plus](https://github.com/thijsdejong/codam-nor
 
 ### Problem 7 : Unavailable
 
-<img src="https://i.imgur.com/c4uy3cM.png" width="500" height="200">
+<img src="https://i.imgur.com/c4uy3cM.png" width="400" height="100">
 
 To solve this problem follow these steps : 
 
