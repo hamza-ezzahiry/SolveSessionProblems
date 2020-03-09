@@ -120,7 +120,7 @@ click here : [link](https://profile.intra.42.fr/securities)
 
 And click on :
 
-<img src="https://i.imgur.com/eer6D71.png" width="300" height="100">
+<img src="https://i.imgur.com/eer6D71.png" width="150" height="70">
 
 **5. Finally, log out from your session and re-login**
 
