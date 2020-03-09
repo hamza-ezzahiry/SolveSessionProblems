@@ -54,18 +54,30 @@ New service is deployed by 1337 Staff **[iscsi-tools](https://iscsi-tools.1337.m
 ### Problem 4 : install brew 
 
 script 1:
-```sh
 
-#!/usr/sh 
-rm -rfv $HOME/.brew && git clone --progress --verbose --depth=1 https://github.com/Homebrew/brew $HOME/.brew && echo 'export PATH=$HOME/.brew/bin:$PATH' >> $HOME/.zshrc && source $HOME/.zshrc && brew update -v 
+```sh
+git clone --branch 2.0.6 https://github.com/Homebrew/brew.git $HOME/brew
+export PATH=$HOME/brew/bin:$PATH
+echo 'export PATH=$HOME/brew/bin:$PATH' >> $HOME/.zshrc
+source ~/.zshrc
 ```
 
 script 2:
 
 ```sh
 
+#!/usr/sh 
+rm -rfv $HOME/.brew && git clone --progress --verbose --depth=1 https://github.com/Homebrew/brew $HOME/.brew && echo 'export PATH=$HOME/.brew/bin:$PATH' >> $HOME/.zshrc && source $HOME/.zshrc && brew update -v 
+```
+
+script 3:
+
+```sh
+
 rm -rf $HOME/.brew && git clone --depth=1 https://github.com/Homebrew/brew $HOME/.brew && export PATH=$HOME/.brew/bin:$PATH && brew update && echo "export PATH=$HOME/.brew/bin:$PATH" >> ~/.zshrc
 ```
+
+
 
 ### Problem 5 : No more .DS_Store
 
