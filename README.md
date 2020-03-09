@@ -33,7 +33,7 @@ This repo for 1337 students where they can find solutions of every session probl
 - [x] Problem 5 : No more .DS_Store
 - [x] Problem 6 : Norminete Time-out
 - [x] Problem 7 : Unavailable
-
+- [x] Problem 8 : Install valgrind
 
 
 ## Solutions : 
@@ -123,3 +123,13 @@ And click on :
 <img src="https://i.imgur.com/eer6D71.png" width="300" height="100">
 
 **5. Finally, log out from your session and re-login**
+
+
+### Problem 8: Install valgrind
+
+1. install brew first (check problem 4)
+2. run this :
+
+```sh
+ $ brew install valgrind
+```
