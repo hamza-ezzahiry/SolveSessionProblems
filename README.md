@@ -34,7 +34,7 @@ This repo for 1337 students where they can find solutions of every session probl
 - [x] Problem 6 : Norminete Time-out
 - [x] Problem 7 : Unavailable
 - [x] Problem 8 : Install valgrind
-
+- [x] Problem 9 : valgrind: Unknown/uninstalled VG_PLATFORM 'amd64-darwin'
 
 ## Solutions : 
 
@@ -133,3 +133,25 @@ And click on :
 ```sh
  $ brew install valgrind
 ```
+### Problem 9: valgrind: Unknown/uninstalled VG_PLATFORM 'amd64-darwin' 
+
+1. remove valgrind (if it exist)
+```sh
+ $ brew uninstall -f valgrind
+```
+2. And run this :
+
+```sh
+$ git clone https://github.com/Echelon9/valgrind.git
+$ cd valgrind
+$ git checkout feature/v3.14/macos-mojave-support-v2
+$ ./autogen.sh
+$ ./configure --prefix=/Users/"login"/valgrind
+$ make install
+```
+3. And finally, add this to this file **~/.zshrc**
+```sh
+ export PATH="/Users/"login"/valgrind/bin:$PATH"
+```
+
+
