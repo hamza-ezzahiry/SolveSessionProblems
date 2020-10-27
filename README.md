@@ -35,6 +35,8 @@ This repo for 1337 students where they can find solutions of every session probl
 - [x] Problem 7 : Unavailable
 - [x] Problem 8 : Install valgrind
 - [x] Problem 9 : valgrind: Unknown/uninstalled VG_PLATFORM 'amd64-darwin'
+- [x] Problem 10: Losing all the configuration & the extension on VScode
+
 
 ## Solutions : 
 
@@ -153,5 +155,9 @@ $ make install
 ```sh
  export PATH="/Users/"login"/valgrind/bin:$PATH"
 ```
+### Problem 10: Lost all the configuration & the extension on VScode 
+
+Use this extension on vs code (U should have a github account) **[Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)**
+
 
 
