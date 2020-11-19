@@ -36,6 +36,7 @@ This repo for 1337 students where they can find solutions of every session probl
 - [x] Problem 8 : Install valgrind
 - [x] Problem 9 : valgrind: Unknown/uninstalled VG_PLATFORM 'amd64-darwin'
 - [x] Problem 10: Losing all the configuration & the extension on VScode
+- [x] Problem 11: clone old repos vogsphere-v2
 
 
 ## Solutions : 
@@ -158,6 +159,17 @@ $ make install
 ### Problem 10: Lost all the configuration & the extension on VScode 
 
 Use this extension on vs code (U should have a github account) **[Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)**
+
+### Problem 11: clone old repos vogsphere-v2
+
+Run this :
+```sh
+$ ssh-keygen -t rsa
+$ cd ~/.ssh
+$ cat id_rsa.pub
+```
+Then copy the result to **Vogsphere v2 SSH Keys** [here](https://profile.intra.42.fr/gitlab_users/new)
+
 
 
 
